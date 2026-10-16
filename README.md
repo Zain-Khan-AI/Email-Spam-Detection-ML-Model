@@ -79,7 +79,7 @@ MailGuard demonstrates practical skills in:
 **Zain Khan**
 
 - GitHub: [Zain-Khan-AI](https://github.com/Zain-Khan-AI)
-- LinkedIn: [[Add Your LinkedIn Profile URL](YOUR_LINKEDIN_URL](https://www.linkedin.com/in/m-zainkhan/))
+- LinkedIn: [https://www.linkedin.com/in/m-zainkhan/)
 
 ---
 
